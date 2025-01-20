@@ -1,6 +1,9 @@
 # FiveStatus - FiveM Server Status on Wordpress
 The FiveM Server Status Plugin for WordPress provides an easy and effective way to display the online status of your FiveM server directly on your website. With this plugin, you and your visitors can quickly see whether the server is online and how many players are currently connected.
 
+![fivestatus_banner](https://github.com/user-attachments/assets/941b6ea1-0f81-470b-8d94-132941a01103)
+
+
 ### Key Features:
 - Real-time server status display
 - Number of players currently connected
