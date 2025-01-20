@@ -14,6 +14,7 @@ The FiveM Server Status Plugin for WordPress provides an easy and effective way 
 1. Upload the plugin folder to the `/wp-content/plugins/` directory of your WordPress installation.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to the plugin settings page under 'Settings' > 'FiveM Server Status' to configure the plugin with your server details.
+4. See our Documentation at https://docs.maxifaxipaxi.com/additional/fivestatus for integration.
 
 ### == Usage / Integration ==
 After activation, you can configure the plugin settings to connect to your FiveM server. Use the provided shortcode `[fivem_status ip="127.0.0.1" port="30120" lang="en"]` or `[fivem_status ip="127.0.0.1" port="30120" lang="de"]` or `[fivem_status ip="127.0.0.1" port="30120"]` to display the server status on any page or post. Customize the appearance and functionality through the plugin settings page.
