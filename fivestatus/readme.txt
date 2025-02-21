@@ -29,11 +29,6 @@ Key Features:
 
 After activation, you can configure the plugin settings to connect to your FiveM server. Use the provided shortcode `[fivem_server_status]` to display the server status on any page or post. Customize the appearance and functionality through the plugin settings page.
 
-== Screenshots ==
-https://r2.fivemanage.com/pub/yx0dqnjfwe15.png -- online
-https://r2.fivemanage.com/pub/ueyibtvatonj.png -- offline
-
-
 == Changelog ==
 
 = 1.0.0 =
